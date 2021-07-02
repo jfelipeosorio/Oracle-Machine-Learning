@@ -1,4 +1,4 @@
-# Oracle Machine Learning
+# Oracle Machine Learning 
 ***
 
-Entendamos los algoritmos en la librería `DataMining` de PL/SQL para hacer machine learning en los notebooks de Autonomous Datawarehouse. 
+Implementation of `DataMining` algorithms in PL/SQL to do machine learning inside the notebooks of Autonomous Datawarehouse. 
